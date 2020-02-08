@@ -1,5 +1,5 @@
 #self{
-    padding-top: 50px;
+    padding-top: 40px;
     text-align: center;
     background: gold;
     background: -moz-radial-gradient(center, gold 0%, #144E75 60%, #144E75 100%);
@@ -8,7 +8,7 @@
 }
 
 #personal{
-    text-align: top;
+    text-align: center;
     color:whitesmoke;
 }
 
@@ -29,5 +29,5 @@
 }
 
 .headers{
-    text
+    font-style: italic;
 }
