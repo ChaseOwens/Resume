@@ -1,0 +1,33 @@
+#self{
+    padding-top: 50px;
+    text-align: center;
+    background: gold;
+    background: -moz-radial-gradient(center, gold 0%, #144E75 60%, #144E75 100%);
+    background: -webkit-radial-gradient(center, gold 0%, teal 60%, #144E75 100%);
+    background: radial-gradient(ellipse at center, gold 0%, teal 60%, teal 100%);
+}
+
+#personal{
+    text-align: top;
+    color:whitesmoke;
+}
+
+#hmu{
+    text-align: left;
+}
+
+#background{
+    background-color: teal
+}
+
+#words{
+    color:whitesmoke
+}
+
+#linkd{
+    text-align: center;
+}
+
+.headers{
+    text
+}
